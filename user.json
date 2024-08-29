@@ -1,0 +1,25 @@
+{
+    "data":[
+      {
+      "id": 1,
+      "name": "ajay",
+      "email": "ajaydas@gmail.com",
+      "password":"ajay123",
+      "profession": "Teacher"
+    },
+    {
+      "id": 2,
+      "name": "maneesha",
+      "email": "maneeshapk@gmail.com",
+      "password":"maneesha123",
+      "profession": "Clerk"
+    },
+    {
+      "id": 3,
+      "name": "arya",
+      "email": "arya@gmail.com",
+      "password":"arya123",
+      "profession": "Driver"
+    }
+      ]
+  }
